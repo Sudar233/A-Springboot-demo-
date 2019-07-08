@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44a7b8fb-240a-4449-a3b8-8d715e81ad5a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/DemoApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/controller/indexController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/mapper/LoginMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/payment/swagger/Swagger2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/pojo/domain/Login.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/pojo/domain/LoginCriteria$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/pojo/domain/LoginCriteria$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/pojo/domain/LoginCriteria$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/pojo/domain/LoginCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/pojo/dto/LoginDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/pojo/dto/RegisterDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/service/Imp/LoginServiceImp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/service/Imp/RegisterServiceImp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/service/LoginService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epc/service/RegisterService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/generator/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapping/LoginMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-1.2-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-1.2-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/epc/pojo/domain/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epc/pojo/domain/Login.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,20 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Login.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epc/pojo/domain/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+            <state relative-caret-position="244">
+              <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+            <state relative-caret-position="198">
+              <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -204,9 +180,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="753" />
-    <option name="y" value="64" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="276" />
+    <option name="y" value="55" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -388,7 +364,7 @@
       <workItem from="1562417152890" duration="2958000" />
       <workItem from="1562549562995" duration="1076000" />
       <workItem from="1562573570834" duration="3819000" />
-      <workItem from="1562577488700" duration="957000" />
+      <workItem from="1562577488700" duration="2576000" />
     </task>
     <task id="LOCAL-00001" summary="将项目提交到本地git">
       <created>1562574330079</created>
@@ -401,7 +377,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34089000" />
+    <option name="totallyTimeSpent" value="35708000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -413,13 +389,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="753" y="64" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="RestServices" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.38731343" side_tool="true" visible="true" weight="0.4425087" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.23507462" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.38699362" side_tool="true" visible="true" weight="0.4154853" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.16791044" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -437,8 +413,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989339" weight="0.3293348" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5586354" weight="0.2167756" />
       <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.4978678" weight="0.32897604" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.6126866" visible="true" weight="0.4425087" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34776118" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.6130064" visible="true" weight="0.4154853" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24840085" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -877,17 +853,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epc/pojo/domain/Login.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        <state relative-caret-position="198">
+          <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epc/pojo/domain/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+        <state relative-caret-position="244">
+          <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
         </state>
       </provider>
     </entry>
